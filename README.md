@@ -14,13 +14,12 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="220" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=farrdin&label=Profile%20views&color=0e75b6&style=flat" alt="farrdin" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=farrdin.farrdin&"  />
 </div>
 
 ###
