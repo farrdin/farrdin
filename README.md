@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me:</h3>
+<h2 align="left">👩‍💻  About Me:</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h1 align="left">🛠 Language and tools:</h1>
+<h2 align="left">🛠 Language and tools:</h2>
 
 ###
 
@@ -87,7 +87,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 
 ###
