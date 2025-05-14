@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fardin Ahmed Alif</h1>
 <h3 align="center">A passionate Junior web developer from Dhaka,Bangladesh</h3>
+
 ![Banner!](/assets/banner.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farrdin&label=Profile%20views&color=0e75b6&style=flat" alt="farrdin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farrdin" alt="farrdin" /></a> </p>
